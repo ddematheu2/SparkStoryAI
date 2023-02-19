@@ -15,7 +15,7 @@ function App() {
   useEffect(() => {
     if (user) {
       setWaiting(true);
-      fetch('http://localhost:7071/api/createBook', {
+      fetch('https://ddematheu-book-illustrator.azurewebsites.net/api/createbook', {
         method: "POST",
         body : JSON.stringify(user),
       })
