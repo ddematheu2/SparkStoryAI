@@ -1,0 +1,18 @@
+.Join{
+    position:relative;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+  
+  .JoinMessage{
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 50vw;
+    font-size: 50px;
+    padding-left: 25vw;
+    padding-top: 25vh;
+    color: white;
+    text-align: center;
+  }
