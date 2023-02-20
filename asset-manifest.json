@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SparkStoryAI/static/css/main.4763e04b.css",
-    "main.js": "/SparkStoryAI/static/js/main.177b72a6.js",
-    "static/js/787.2289ab98.chunk.js": "/SparkStoryAI/static/js/787.2289ab98.chunk.js",
-    "index.html": "/SparkStoryAI/index.html",
-    "main.4763e04b.css.map": "/SparkStoryAI/static/css/main.4763e04b.css.map",
-    "main.177b72a6.js.map": "/SparkStoryAI/static/js/main.177b72a6.js.map",
-    "787.2289ab98.chunk.js.map": "/SparkStoryAI/static/js/787.2289ab98.chunk.js.map"
+    "main.css": "/StorySparkAI/static/css/main.4763e04b.css",
+    "main.js": "/StorySparkAI/static/js/main.92446d68.js",
+    "static/js/787.2289ab98.chunk.js": "/StorySparkAI/static/js/787.2289ab98.chunk.js",
+    "index.html": "/StorySparkAI/index.html",
+    "main.4763e04b.css.map": "/StorySparkAI/static/css/main.4763e04b.css.map",
+    "main.92446d68.js.map": "/StorySparkAI/static/js/main.92446d68.js.map",
+    "787.2289ab98.chunk.js.map": "/StorySparkAI/static/js/787.2289ab98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4763e04b.css",
-    "static/js/main.177b72a6.js"
+    "static/js/main.92446d68.js"
   ]
 }
